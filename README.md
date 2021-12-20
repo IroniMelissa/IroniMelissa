@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IroniMelissa
+- 👋 Hi, I’m IroniMelissa
 - 👀 I’m interested in learning new technologies.
 - 🌱 I’m currently learning programming.
 
