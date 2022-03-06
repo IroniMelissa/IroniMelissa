@@ -1,6 +1,6 @@
-- 👋 Hi, I’m IroniMelissa
-- 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently learning programming.
+- 👋 Hi, I’m IroniMelissa.
+- 👀 I’m interested programming in Java, Python.
+- 🌱 I'm a Data Science student.
 
 
 <!---
