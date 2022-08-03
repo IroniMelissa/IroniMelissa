@@ -1,6 +1,7 @@
 - 👋 Hi, I’m IroniMelissa.
 - 👀 I’m interested programming in Java, Python.
-- 🌱 I'm a Data Science student.
+- 🌱 I'm currently learning 'Meachine Learning'.
+
 
 
 <!---
